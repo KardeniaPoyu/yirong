@@ -1,8 +1,8 @@
 ---
-title: My first Blog 最初のブログ
+title: TOEIC試験の振り返りまとめ
 published: 2025-09-13
-description: "よっかた、初めてブログできた！"
-image: "./cover.jpeg"
+description: "TOEICできた、900点までもう一歩！"
+image: "./cover.png"
 tags: ["Learning / 学習","Chit-chat / 雑談"]
 category: Notes/ノート
 draft: false
@@ -12,40 +12,10 @@ draft: false
 
 This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
 
-## Front-matter of Posts
+最近、TOEICを受けてきました。目標は900点ですが、あと一歩のところです！
 
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
----
-```
+今回、日本でのTOEIC受験と自分の大学での受験を比べてみると、やっぱり環境の違いを感じました。私は北外（北京外国語大学）で受けたのですが、隣の席の人のページをめくる音がとても気になりました。左側の大人の方は、通常ならリスニングが終わったらすぐ次の問題に進むのですが、彼は次の問題が始まる直前にページをめくるので、けっこう大きな音が出てしまいました😇
 
-| Attribute     | Description                                                                                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `title`       | The title of the post.                                                                                                                                                                                      |
-| `published`   | The date the post was published.                                                                                                                                                                            |
-| `description` | A short description of the post. Displayed on index page.                                                                                                                                                   |
-| `image`       | The cover image path of the post.<br/>1. Start with `http://` or `https://`: Use web image<br/>2. Start with `/`: For image in `public` dir<br/>3. With none of the prefixes: Relative to the markdown file |
-| `tags`        | The tags of the post.                                                                                                                                                                                       |
-| `category`    | The category of the post.                                                                                                                                                                                   |
-| `draft`        | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
+また、監督の女性（学生のように見えました）が、ずっと自分の前でスマホを触っていて、少し気になりました。監督員は本来スマホを使ってはいけないはずですが…😵
 
-## Where to Place the Post Files
-
-
-
-Your post files should be placed in `src/content/posts/` directory. You can also create sub-directories to better organize your posts and assets.
-
-```
-src/content/posts/
-├── post-1.md
-└── post-2/
-    ├── cover.png
-    └── index.md
-```
+こういう環境の中でも集中力を保つことが大事ですね。次回はもっと落ち着いて、しっかり点を取りたいと思います。
