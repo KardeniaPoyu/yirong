@@ -17,8 +17,8 @@ All content represents the author's personal views. Please credit the source whe
 文章转载或引用请注明来源，谢谢合作。
 
 ## Tech Stack
-- Static Site Generator: Cloudfare / Fuwari
-- Deployment: GitHub Pages
+- Static Site Generator: Github / Fuwari
+- Deployment: Cloudfare Pages
 
 ## Contact
 - Email: yirong.zhou@muc.edu.cn
