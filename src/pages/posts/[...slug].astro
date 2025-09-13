@@ -133,23 +133,13 @@ const jsonLd = {
         </a>
     </div>
 
-<article>
-  <h1>{/* 标题 */}</h1>
-  <div class="prose max-w-none"><slot /></div>
-  <div class="page-views mt-4">
-    <span>閲覧数: <span id="views-count">読み込み中...</span></span>
-    <script>
-      fetch(`https://api.hits.se/api/v1/${slug}/hits`)
-        .then(res => res.json())
-        .then(data => {
-          document.getElementById('views-count').textContent = data.total;
-        });
-    </script>
-  </div>
-</article>
-<style>
-  .page-views { font-size: 0.9rem; color: #666; }
-</style>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<div class="post-stats mt-4 text-sm">
+  <span id="busuanzi_container_page_pv" class="text-current dark:text-gray-200">
+    閲覧数: <span id="busuanzi_value_page_pv" class="font-medium text-current"></span>
+  </span>
+</div>
 
 <script src="https://giscus.app/client.js"
         data-repo="KardeniaPoyu/fuwari"
