@@ -2,12 +2,14 @@
 
 This website is built by myself and is based on the [Fuwari](https://github.com/saicaca/fuwari) theme/framework.  
 It is intended for personal learning, technical sharing, and note-taking.  
-All content represents the author's personal views. Please credit the source when reposting or quoting any article.
+All content represents the author's personal views. 
+Please credit the source when reposting or quoting any article.
 
 # サイトについて
 
 本サイトは筆者自身が構築したもので、[Fuwari](https://github.com/saicaca/fuwari) テーマ/フレームワークを基に作成されています。  
-当サイトは個人の学習、技術共有およびノート整理を目的としており、内容はあくまで筆者の個人的な見解を示しています。  
+当サイトは個人の学習、技術共有およびノート整理を目的としており、
+内容はあくまで筆者の個人的な見解を示しています。  
 記事の転載や引用の際は、出典の明記をお願いいたします。
 
 # 关于本站
