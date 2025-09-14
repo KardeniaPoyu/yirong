@@ -9,7 +9,7 @@ When I’m not coding, I enjoy Games (PC or console), reading or writing some no
 
 Through this blog, I hope to document my learning process, share insights, and connect with others who share similar interests.  If you find something useful here or would like to collaborate, please feel free to reach out and be my friend. 
 
-_Fun facts about me: I am a DEVOTED Kirby fan cuz Kirby is cute but powerful.I can’t stand secondhand smoke🚬, I value freedom of speech📰, and I really care about work-life balance💴 and minority rights🌈_.
+_Fun facts about me: I am a DEVOTED Kirby fan cuz Kirby is cute but powerful. I can’t stand secondhand smoke🚬, I value freedom of speech📰, and I really care about work-life balance💴 and minority rights🌈_.
 
 # About This Site 
 
