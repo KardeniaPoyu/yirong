@@ -13,21 +13,21 @@ _Fun facts about me: I am a DEVOTED Kirby fan cuz Kirby is cute but powerful. I 
 
 # About This Site 
 
-This website is built by myself and is based on the [Fuwari](https://github.com/saicaca/fuwari) framework.  
+This website is built by myself and is based on the Astro and Fuwari framework.  
 It is intended for personal learning, technical sharing, and note-taking.  
 All content represents the author's personal views. 
 Please credit the source when reposting or quoting any article.
 
 # サイトについて
 
-本サイトは筆者自身が構築したもので、[Fuwari](https://github.com/saicaca/fuwari) フレームワークを基に作成されています。  
+本サイトは筆者自身が構築したもので、AstroとFuwariフレームワークを基に作成されています。  
 当サイトは個人の学習、技術共有およびノート整理を目的としており、
 内容はあくまで筆者の個人的な見解を示しています。  
 記事の転載や引用の際は、出典の明記をお願いいたします。
 
 # 关于本站
 
-本网站由本人独立搭建，基于 [Fuwari](https://github.com/saicaca/fuwari) 框架制作。  
+本网站由本人独立搭建，基于Astro和Fuwari框架制作。  
 本站主要用于个人学习、技术分享与笔记整理，内容仅代表作者个人观点。  
 文章转载或引用请注明来源，感谢。
 
