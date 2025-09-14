@@ -1,7 +1,7 @@
 ---
 title: コンピュータアーキテクチャ (1) SRAMとDRAM
 published: 2025-09-14
-description: "王道计组第三章"
+description: "王道计组 第三章"
 image: "./cover.png"
 tags: ["勉強 / learning","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
