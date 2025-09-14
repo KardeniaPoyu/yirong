@@ -1,5 +1,5 @@
 ---
-title: コンピュータアーキテクチャ (1) SRAMとDRAM
+title: computer architecture コンピュータアーキテクチャ (1) SRAMとDRAM
 published: 2025-09-14
 description: "王道计组 第三章"
 image: "./cover.png"
