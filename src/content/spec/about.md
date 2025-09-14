@@ -1,11 +1,11 @@
 # About
 
 こんにちは, **YiRong**です, you can also call me by my nick name **KardeniaPoyu**, **鹿茸栀子粥**. I am currently an undergraduate student majoring in Information and Computing Science from China, and I hope to study, work, and live in Japan someday.  
-My academic interests include `computer graphics`, `AI`, `game development` and every application of mathematics in computer science.  
+My academic interests include  `computer graphics` ,  `AI` ,  `game development`  and every application of mathematics in computer science.  
 
 In addition to my studies, I enjoy developing personal projects, such as creating my own blog, experimenting with game design, and learning new programming frameworks.
 
-When I’m not coding, I enjoy Games (PC or console), reading or writing some novels, focusing politics, history and intercultural exchange, playing my Guiter. In a word, things related to art and philosophy.
+When I’m not coding, I enjoy Games (PC or console), reading or writing some novels, focusing politics, history and intercultural exchange, playing my guiter. In a word, things related to art and philosophy.
 
 Through this blog, I hope to document my learning process, share insights, and connect with others who share similar interests.  If you find something useful here or would like to collaborate, please feel free to reach out and be my friend. 
 
