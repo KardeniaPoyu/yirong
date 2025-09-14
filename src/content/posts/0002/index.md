@@ -4,7 +4,7 @@ published: 2025-09-13
 description: "TOEICできた、900点までもう一歩！"
 image: "./cover.png"
 tags: ["学習 / Learning","雑談 / Chit-chat", "日本語 / Japanese"]
-category: ノート / Notes
+category: Thoughts / 心情
 draft: false
 ---
 
