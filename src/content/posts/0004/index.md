@@ -1,5 +1,5 @@
 ---
-title: 日本語N2メモ（１）
+title: 日本語 JLPT N2 メモ（１）
 published: 2025-09-14
 description: "ことではない vs ことはない"
 image: ""
