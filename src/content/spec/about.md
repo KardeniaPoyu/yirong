@@ -11,6 +11,14 @@ Through this blog, I hope to document my learning process, share insights, and c
 
 _Fun facts about me: I am a DEVOTED Kirby fan cuz Kirby is cute but powerful. I can’t stand secondhand smoke🚬, I value freedom of speech📰, and I really care about work-life balance💴 and minority rights🌈_.
 
+Please note that my blog and my connections are based on the following languages.
+
+| Language     | preference                                                                                                                                                                                                 |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `English`       | currently the main language of my blog , as it is smoother for me to communicate before my Japanese proficiency improves further                                                                                                                                                                          |
+| `日本語`   | I am doing my best to learn Japanese, and I hope to make it the language I use most in my daily life                                                                                                                                                                        |
+| `简体中文` | my native language                                                         
+
 # About This Site 
 
 This website is built by myself and is based on the Astro and Fuwari framework.  
