@@ -7,8 +7,7 @@ In addition to my studies, I enjoy developing personal projects, such as creatin
 
 When I’m not coding, I enjoy Games (PC or console), reading or writing some novels, focusing politics, history and intercultural exchange, playing my Guiter. In a word, things related to art and philosophy.
 
-Through this blog, I hope to document my learning process, share insights, and connect with others who share similar interests.  
-If you find something useful here or would like to collaborate, please feel free to reach out and be my friend. 
+Through this blog, I hope to document my learning process, share insights, and connect with others who share similar interests.  If you find something useful here or would like to collaborate, please feel free to reach out and be my friend. 
 
 _Fun facts about me: I can’t stand secondhand smoke🚬, I value freedom of speech📰, and I really care about work-life balance💴 and minority rights🌈_.
 
@@ -48,11 +47,11 @@ I would like to express my gratitude to the following projects and individuals f
 
 ::github{repo="saicaca/fuwari"}
 
-2. [giscus](https://github.com/giscus/giscus) for the comment functionality.
+ 2. [giscus](https://github.com/giscus/giscus) for the comment functionality.
 
 ::github{repo="giscus/giscus"}
 
-3.busuanzi for the page view statistics functionality.
+ 3.busuanzi for the page view statistics functionality.
 
 > ### Sources of images used in this site
 > - [visuard in Unsplash](https://unsplash.com/ja/@visuard).
