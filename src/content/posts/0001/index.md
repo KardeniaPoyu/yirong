@@ -15,7 +15,7 @@ I’m still a beginner in programming, so if there are any mistakes in my blog, 
 
 In any case, this marks a new beginning for me.
 
-Please note my blog and my connections are based on the following languages.
+Please note that my blog and my connections are based on the following languages.
 
 | Language     | preference                                                                                                                                                                                                 |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
