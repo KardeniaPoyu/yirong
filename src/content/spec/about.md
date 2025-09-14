@@ -51,7 +51,7 @@ I would like to express my gratitude to the following projects and individuals f
 
 ::github{repo="giscus/giscus"}
 
- 3.busuanzi for the page view statistics functionality.
+ 3. busuanzi for the page view statistics functionality.
 
 > ### Sources of images used in this site
 > - [visuard in Unsplash](https://unsplash.com/ja/@visuard).
