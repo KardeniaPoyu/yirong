@@ -1,5 +1,19 @@
 # About
 
+こんにちは, **YiRong**です, you can also call me by my nick name **KardeniaPoyu**, **鹿茸栀子粥**. I am currently an undergraduate student majoring in Information and Computing Science from China, and I hope to study, work, and live in Japan someday.  
+My academic interests include `computer graphics`, `AI`, `game development` and every application of mathematics in computer science.  
+
+In addition to my studies, I enjoy developing personal projects, such as creating my own blog, experimenting with game design, and learning new programming frameworks.
+
+When I’m not coding, I enjoy Games (PC or console), reading or writing some novels, focusing politics, history and intercultural exchange, playing my Guiter. In a word, things related to art and philosophy.
+
+Through this blog, I hope to document my learning process, share insights, and connect with others who share similar interests.  
+If you find something useful here or would like to collaborate, please feel free to reach out and be my friend. 
+
+_Fun facts about me: I can’t stand secondhand smoke🚬, I value freedom of speech📰, and I really care about work-life balance💴 and minority rights🌈_.
+
+# About This Site 
+
 This website is built by myself and is based on the [Fuwari](https://github.com/saicaca/fuwari) framework.  
 It is intended for personal learning, technical sharing, and note-taking.  
 All content represents the author's personal views. 
@@ -19,7 +33,7 @@ Please credit the source when reposting or quoting any article.
 文章转载或引用请注明来源，感谢。
 
 ## Tech Stack
-- Static Site Generator: Github repository / Fuwari
+- Static Site Generator: Github repository
 - Deployment: Cloudfare Pages
 
 ## Contact
