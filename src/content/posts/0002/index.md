@@ -3,8 +3,8 @@ title: TOEIC試験の振り返りまとめ
 published: 2025-09-13
 description: "TOEICできた、900点までもう一歩！"
 image: "./cover.png"
-tags: ["学習 / Learning","雑談 / Chit-chat", "日本語 / Japanese"]
-category: Thoughts / 心情
+tags: ["雑談 / Miscellaneous", "日本語 / Japanese"]
+category: 心情 / Thoughts
 draft: false
 ---
 

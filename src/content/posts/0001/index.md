@@ -2,8 +2,8 @@
 title: My first Blog 最初のブログ
 published: 2025-09-12
 description: "よっかた、初めてブログできた！"
-tags: ["Chit-chat / 雑談", "英語 / English"]
-category: Thoughts / 心情
+tags: ["雑談 / Miscellaneous", "英語 / English"]
+category: 心情 / Thoughts 
 draft: false
 ---
 
