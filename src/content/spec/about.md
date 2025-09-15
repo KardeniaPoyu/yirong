@@ -9,15 +9,15 @@ When I’m not coding, I enjoy Games (PC or console), reading or writing some no
 
 Through this blog, I hope to document my learning process, share insights, and connect with others who share similar interests.  If you find something useful here or would like to collaborate, please feel free to reach out and be my friend. 
 
-_Fun facts about me: I am a DEVOTED Kirby fan cuz Kirby is cute but powerful. I can’t stand secondhand smoke🚬, I value freedom of speech📰, and I really care about work-life balance💴 and minority rights🌈_.
-
 Please note that my blog and my connections are based on the following languages.
 
 | Language     | preference                                                                                                                                                                                                 |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `English`       | currently the main language of my blog , as it is smoother for me to communicate before my Japanese proficiency improves further                                                                                                                                                                          |
 | `日本語`   | I am doing my best to learn Japanese, and I hope to make it the language I use most in my daily life                                                                                                                                                                        |
-| `简体中文` | my native language                                                         
+| `简体中文` | my native language                      
+
+_Fun facts about me: I am a DEVOTED Kirby fan cuz Kirby is cute but powerful. I can’t stand secondhand smoke🚬, I value freedom of speech📰, and I really care about work-life balance💴 and minority rights🌈_.
 
 # About This Site 
 
@@ -25,19 +25,6 @@ This website is built by myself and is based on the Astro and Fuwari framework.
 It is intended for personal learning, technical sharing, and note-taking.  
 All content represents the author's personal views. 
 Please credit the source when reposting or quoting any article.
-
-# サイトについて
-
-本サイトは筆者自身が構築したもので、AstroとFuwariフレームワークを基に作成されています。  
-当サイトは個人の学習、技術共有およびノート整理を目的としており、
-内容はあくまで筆者の個人的な見解を示しています。  
-記事の転載や引用の際は、出典の明記をお願いいたします。
-
-# 关于本站
-
-本网站由本人独立搭建，基于Astro和Fuwari框架制作。  
-本站主要用于个人学习、技术分享与笔记整理，内容仅代表作者个人观点。  
-文章转载或引用请注明来源，感谢。
 
 ## Tech Stack
 - Static Site Generator: Github repository
@@ -62,4 +49,4 @@ I would like to express my gratitude to the following projects and individuals f
  3. busuanzi for the page view statistics functionality.
 
 > ### Sources of images used in this site
-> - [visuard in Unsplash](https://unsplash.com/ja/@visuard).
+> - visuard from [Unsplash](https://unsplash.com/ja/@visuard).

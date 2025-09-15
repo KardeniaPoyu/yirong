@@ -10,5 +10,8 @@ const sortedPostsList = await getSortedPostsList();
 
 <MainGridLayout title={i18n(I18nKey.archive)}>
     <ArchivePanel sortedPosts={sortedPostsList} client:only="svelte"></ArchivePanel>
+
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    
 </MainGridLayout>
 

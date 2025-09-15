@@ -1,16 +1,15 @@
 ---
-title: computer architecture (1) SRAMとDRAM
-published: 2025-09-14
+title: computer architecture (2) SRAMとDRAM
+published: 2025-09-15
 description: "王道计组 第三章"
-image: "./cover.png"
+image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
-draft: false
+draft: true
 lang: cn 
-
 ---
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100440728&p=35" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100440183&p=33" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 - **DRAM和SRAM**
     - 存储元件不同导致的特性差异
@@ -52,7 +51,7 @@ mos管接通之后，如果是0，电容不放电，从数据线上不产生电�
 
 第二种稳态： B点高电平，A点低电平，规定对应写入的是0。
 
-![我的截图](/images/1.png)
+![我的截图](/images/6.png)
 
 :::warning
 以上是对于写入而言，下面我们来看读出。

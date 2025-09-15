@@ -2,10 +2,12 @@
 title: 日本語 JLPT N2 メモ（１）
 published: 2025-09-14
 description: "ことではない vs ことはない"
-image: ""
-tags: ["勉強 / learning","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
+image: "./cover.jpg"
+tags: ["院試 / Grad Prep","語学 / Language Learning", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
 draft: false
+lang: cn 
+
 ---
 # 📘 ことではない vs ことはない
 ---
@@ -75,6 +77,8 @@ draft: false
 ---
 # N2听力解析
 
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=114771122723797&bvid=BV1dXgzz1EV9&cid=30772891622&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## 对话 1：プレゼン資料の作り方
 
 ### 原文
@@ -126,6 +130,8 @@ draft: false
 - **〜ことはできません** → 不能……  
 
 ---
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810041800&p=44" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 对话 2：晚餐选择（外食 vs 家里做）
 
