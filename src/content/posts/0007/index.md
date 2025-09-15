@@ -1,6 +1,6 @@
 ---
 title: computer architecture (3) メインメモリの基本構造
-published: 2025-09-15
+published: 2025-09-16
 description: "王道计组 第三章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
