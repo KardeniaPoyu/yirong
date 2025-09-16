@@ -19,7 +19,7 @@ Please note that my blog and my connections are based on the following languages
 
 _Fun facts about me: I am a DEVOTED Kirby fan cuz Kirby is cute but powerful. I can’t stand secondhand smoke🚬, I value freedom of speech📰, and I really care about work-life balance💴 and minority rights🌈_.
 
-# About This Site 
+## About This Site 
 
 This website is built by myself and is based on the Astro and Fuwari framework.  
 It is intended for personal learning, technical sharing, and note-taking.  
@@ -34,7 +34,7 @@ Please credit the source when reposting or quoting any article.
 - Email: yirong.zhou@muc.edu.cn
 - GitHub: [https://github.com/KardeniaPoyu](https://github.com/KardeniaPoyu)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to express my gratitude to the following projects and individuals for supporting this blog:
 
@@ -48,5 +48,6 @@ I would like to express my gratitude to the following projects and individuals f
 
  3. busuanzi for the page view statistics functionality.
 
-> ### Sources of images used in this site
+> ## Sources of images used in this site
 > - visuard from [Unsplash](https://unsplash.com/ja/@visuard).
+
