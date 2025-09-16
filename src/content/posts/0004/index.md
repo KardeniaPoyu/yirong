@@ -3,7 +3,7 @@ title: 日本語 JLPT N2 メモ（１）
 published: 2025-09-14
 description: "ことではない vs ことはない"
 image: "./cover.jpg"
-tags: ["院試 / Grad Prep","語学 / Language Learning", "日本語 / Japanese","中国語 / Chinese"]
+tags: ["日本語能力試験 / JLPT","語学 / Language Learning", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
 draft: false
 lang: cn 
