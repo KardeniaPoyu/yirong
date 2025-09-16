@@ -1,6 +1,6 @@
 ---
 title: computer architecture (4) ROM
-published: 2025-09-16
+published: 2025-09-16 00:00:01
 description: "王道计组 第三章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]

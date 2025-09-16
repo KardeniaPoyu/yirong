@@ -1,6 +1,6 @@
 ---
 title: My first Blog 最初のブログ
-published: 2025-09-12
+published: 2025-09-13 00:00:00
 description: "よっかた、初めてブログできた！"
 tags: ["雑談 / Miscellaneous", "英語 / English"]
 category: 心情 / Thoughts 

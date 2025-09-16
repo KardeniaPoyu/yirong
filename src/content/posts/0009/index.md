@@ -1,6 +1,6 @@
 ---
 title: computer architecture (5) デュアルポートRAMとマルチモジュールメモリ
-published: 2025-09-16
+published: 2025-09-16 00:00:03
 description: "王道计组 第三章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
@@ -60,6 +60,13 @@ lang: cn
 :::important
 存取周期为T，存取时间为r，应保证模块数`m >= T / r `.
 :::
+
+给定一个地址x，确定它属于第几个存储体的方法：
+
+1. 体号
+
+2. 将二进制地址对体的数量进行取余
+
 ---
 
 ###  知识回顾
