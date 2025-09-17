@@ -5,7 +5,7 @@ description: "听力复盘"
 image: "./cover.jpg"
 tags: ["日本語能力試験 / JLPT","語学 / Language Learning", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
-draft: true
+draft: false
 lang: cn 
 ---
 

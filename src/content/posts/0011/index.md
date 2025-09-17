@@ -5,7 +5,7 @@ description: "王道计组 第三章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
-draft: true
+draft: false
 lang: cn
 ---
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100442017&p=38"  crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
