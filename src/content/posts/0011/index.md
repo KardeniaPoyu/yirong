@@ -105,6 +105,7 @@ CS，片选信号，头上无横线说明高电平有效，同样一根。
 | 0   | 1   | Yes ✅ |
 | 1   | 0   | Yes ✅ |
 | 1   | 1   | NO ❌ |
+
 ![alt text](image-11.png)
 
 也就是说，这个存储器中00开头和11开头的地址不能使用，所以这种连线方法有待改进，我们称为**线选法**（Which means we have to choose a special address to be a chip select signal），如果CPU有n条多余的地址线，采用这种方法只能有n个片选信号。
