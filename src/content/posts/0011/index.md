@@ -11,16 +11,16 @@ lang: cn
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100442017&p=38"  crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
-![alt text](image-3.png)
+![alt text](image-21.png)
 - ## 主存储器与CPU的连接
-    - 存储器芯片的输入输出信号
-    - 增加主存的存储字长-位扩展
-    - 增加主存的存储字数-位扩展
+    - 单块存储芯片与CPU的连接
+    - 多块存储芯片与CPU的连接
+    - 关于译码器知识的补充
 
 >之前我们说过，我们应该尽可能地保持数据总线的宽度和主存的存储字长一致，以便更好发挥性能。
 >若数据总线宽度 > 存储芯片字长怎么办？
 >答案是用到位扩展。 
-
+![alt text](image-3.png)
 :::note
 通过多块存储芯片的合理连接，我们可以让整个主存的存储字长扩展为和数据总线宽度一致。
 :::
