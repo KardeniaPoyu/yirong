@@ -1,6 +1,6 @@
 ---
-title: computer architecture (9) Cacheの基本原則
-published: 2025-09-19 00:00:04
+title: computer architecture (9) キャッシュ・メモリと主記憶のマッピング方式
+published: 2025-09-19 00:00:06
 description: "王道计组 第三章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
