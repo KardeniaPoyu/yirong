@@ -1,7 +1,7 @@
 ---
 title: computer architecture (14) 命令アドレッシング
 published: 2025-09-21 00:00:09
-description: "王道计组 第三章"
+description: "王道计组 第四章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes

@@ -1,7 +1,7 @@
 ---
 title: computer architecture (13) 命令の基本形式
 published: 2025-09-19 00:00:24
-description: "王道计组 第三章"
+description: "王道计组 第四章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
