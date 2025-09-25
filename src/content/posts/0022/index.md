@@ -111,7 +111,7 @@ lang: cn
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100485354&p=49" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 :::note
-不同偏移选址的区别在于偏移的”起点“不一样。
+不同偏移选址的区别在于偏移的“起点”不一样。
 :::
 
 ### 基址寻址
@@ -159,3 +159,22 @@ lang: cn
 
 
  ![alt text](image-25.png)   
+
+
+## 堆栈寻址
+
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100485802&p=50"  crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+![alt text](image-26.png)
+
+:::note
+在主存中划出一片区域用于堆栈，称为软堆栈，pop和push操作都要进行一次访存。而上面这种采用寄存器实现的硬堆栈不需要进行访存。
+:::
+
+![alt text](image-27.png)
+
+
+###  知识回顾
+
+![alt text](image-28.png)
