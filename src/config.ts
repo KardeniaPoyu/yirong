@@ -59,20 +59,25 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			icon: "fa6-brands:x-twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://x.com/KardeniaPoyu",
 		},
 		{
 			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://steamcommunity.com/profiles/76561198398141867",
+			icon: "fa6-brands:bilibili",
+			url: "https://space.bilibili.com/15095535",
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/KardeniaPoyu",
+		},
+		{
+			name: "Email",
+			icon: "fa6-solid:envelope", // 邮件图标（用 solid 套件）
+			url: "mailto:yirong.zhou@muc.edu.cn",
 		},
 	],
 };
