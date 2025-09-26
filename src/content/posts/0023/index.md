@@ -100,7 +100,7 @@ $$
 
 
 $$
-\sum_{n=1}^\infty \frac{1}{n^p} \text{ は発散 } \iff 0<p<1
+\sum_{n=1}^\infty \frac{1}{n^p} \text{ は発散 } \iff 0<p\le 1
 $$
 
 
