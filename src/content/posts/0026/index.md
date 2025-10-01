@@ -8,13 +8,16 @@ category: 創作 / creation
 draft: false
 lang: cn 
 ---
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2751094419&auto=1&height=66"></iframe>
+
 ## くさり（鎖）创作过程
 
 好久不见，最近很久没更新博客，主要在复习C#准备参加Gamejam，所以就没有学新的东西，不过心情实在一般（备考过猛反噬了hh），所以开始重拾乐理了。
 
 我花了大概两天的时间从构思到完成这部曲子。第一天完成了这篇曲子的人声旋律、副歌以及作词，第二天则完成了全部的编曲。
 
-您可以通过网易云音乐倾听这首歌的人声版或纯音乐版，网址如下：
+您也可以通过网易云音乐倾听这首歌的人声版或纯音乐版，网址如下：
 - [くさり（鎖）](https://music.163.com/#/song?id=2751094419&uct2=U2FsdGVkX188ahQoyZfK8EkvzX/Dl44deneGcDzV3Qc=)
 - [くさり（Acoustic）](https://music.163.com/song?id=2751103608&uct2=U2FsdGVkX19/4jP+Q/NJZlrrF7CilndWtkIlgo9Pa40=)
 
@@ -118,6 +121,10 @@ Gmaj → Em → Dmaj → Cmaj/E
 感谢为自己深爱的事物勇敢追求的自己。
 
 最后附上中日翻译对照版本的歌词。
+
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2751103608&auto=1&height=66"></iframe>
+
 
 ```text
 低地で生まれた
