@@ -80,8 +80,7 @@ move ax, bx就是把bx里面的数据复制到ax当中。
 
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100486048&p=52" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-知道数据在哪儿后，接下来我们讨
-论数据应该怎么处理。
+知道数据在哪儿后，接下来我们讨论数据应该怎么处理。
 
 ![alt text](image-7.png)
 
