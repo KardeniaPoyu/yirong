@@ -139,10 +139,10 @@ lang: cn
 - 注意日语老师讲话的结构：**先说明天气情况 → 决定规则 → 紧急联络方式 → 注意事项**，这类结构在听力题中很常见。
 
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810049719&p=63" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810049719&p=63" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 # ⚓ 日本語聴解ノート：船の丸い窓
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810049719&p=63" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
@@ -150,7 +150,7 @@ lang: cn
 
 > 女：船の中って面白いですね。なんで窓が丸いんですか。  
 > 男：これはですね、いろんな長所がありますが、なんといっても重要なのは割れにくいことです。  
-> 船はいつも揺れていて、縦揺れ、横揺れ、いろいろな方向から力がかかるんですが、四角い窓は斜めからの力に弱いので、丸い形にしています。  
+> 船はいつも揺れていて、縦、横、斜め、いろいろな方向から力がかかるんですが、四角い窓は斜めからの力に弱いので、丸い形にしています。  
 > また、こうすると、いろいろな方向が見やすいんです。  
 > 女：へえ、そうなんですね。見た目もかわいいですよね。  
 > 男：はい、丸い窓が好きだとおっしゃる方も多いです。  
@@ -257,6 +257,8 @@ lang: cn
 　👉 答：おっしゃる
 
 # 🏃 日本語聴解ノート：速く走るコツ
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810049719&p=63" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
