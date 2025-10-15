@@ -1,7 +1,7 @@
 ---
 title: computer architecture (17) x86 AT&T v.s. Intel
 published: 2025-10-11 00:00:10
-description: "王道计组 第五章"
+description: "王道计组 第四章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
