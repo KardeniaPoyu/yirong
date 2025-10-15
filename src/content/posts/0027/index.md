@@ -144,7 +144,7 @@ lang: cn
 - **〜そうですね**：推测或印象，“看起来好像”。  
 
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810047177&p=56" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810047183&p=58" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 # 聴解練習（スクリプト）  
 **場面**：親子イベントで男の人が話しています。  
@@ -278,7 +278,7 @@ lang: cn
 
 ## 要点まとめ（总结）
 
-- 学生原本打算进入**ヤスダ薬品（安田药品公司）**工作。  
+- 学生原本打算进入**ヤスダ薬品** 工作。  
 - 但她担心“以现在的知识能否胜任工作”。  
 - 她认为“掌握更多**専門知識（专业知识）**”后，工作会更有趣。  
 - 因此想“留在大学继续学习”，也就是“升学读大学院”。
