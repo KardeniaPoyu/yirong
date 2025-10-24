@@ -77,7 +77,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa6-solid:envelope", // 邮件图标（用 solid 套件）
-			url: "mailto:yirong.zhou@muc.edu.cn",
+			url: "mailto:kardeniapoyu@zohomail.jp",
 		},
 	],
 };

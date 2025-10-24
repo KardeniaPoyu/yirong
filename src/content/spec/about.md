@@ -31,7 +31,7 @@ Please credit the source when reposting or quoting any article.
 - Deployment: Cloudfare Pages
 
 ## Contact
-- Email: yirong.zhou@muc.edu.cn
+- Email: kardeniapoyu@zohomail.jp
 - GitHub: [https://github.com/KardeniaPoyu](https://github.com/KardeniaPoyu)
 
 ## Acknowledgements
