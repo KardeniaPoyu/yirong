@@ -258,8 +258,7 @@ lang: cn
 
 # 🏃 日本語聴解ノート：速く走るコツ
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810049719&p=63" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=259686874&bvid=BV1za411d7Yu&cid=810050409&p=64" crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 ---
 
 ## 🎧 会話本文
