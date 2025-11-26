@@ -5,11 +5,11 @@ import PostCard from "./PostCard.astro";
 
 const { page } = Astro.props;
 
-let delay = 0;
-const interval = 50;
+// 🚀 移除旧的延迟变量和逻辑，现在动画延迟全部通过 PostCard 接收索引并在 CSS 中计算
 ---
 <div class="transition flex flex-col rounded-[var(--radius-large)] bg-[var(--card-bg)] py-1 md:py-0 md:bg-transparent md:gap-4 mb-4">
-    {page.data.map((entry: CollectionEntry<"posts">) => (
+    <!-- 遍历文章，并传递索引 (index) 作为错位动画的依据 -->
+    {page.data.map((entry: CollectionEntry<"posts">, index: number) => (
         <PostCard
                 entry={entry}
                 title={entry.data.title}
@@ -21,8 +21,9 @@ const interval = 50;
                 image={entry.data.image}
                 description={entry.data.description}
                 draft={entry.data.draft}
-                class:list="onload-animation"
-                style={`animation-delay: calc(var(--content-delay) + ${delay++ * interval}ms);`}
+                // 传入当前卡片在列表中的索引
+                staggerIndex={index}
+                // 移除旧的 class:list="onload-animation" 和 style 属性
         ></PostCard>
     ))}
 </div>
