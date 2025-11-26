@@ -10,110 +10,16 @@ export const getStaticPaths = (async ({ paginate }) => {
 	const allBlogPosts = await getSortedPosts();
 	return paginate(allBlogPosts, { pageSize: PAGE_SIZE });
 }) satisfies GetStaticPaths;
+// https://github.com/withastro/astro/issues/6507#issuecomment-1489916992
 
 const { page } = Astro.props;
 
 const len = page.data.length;
-// 定义文章数量变量，用于在CSS中实现错位动画
-const postCount = len;
 ---
 
-<!-- 
-/**
- * 🎨 梦之泉主题和动画样式
- * 使用 var(--hue) 自动适配用户在 settings-utils.ts 中设置的主题色调
- */
--->
-<style define:vars={{postCount}}>
-    /* 定义主题颜色变量，基于用户设定的 --hue */
-    :root {
-        /* 主色调，使用 HSL 调整亮度和饱和度 */
-        --theme-primary: hsl(var(--hue, 250) 80% 65%);
-        --theme-secondary: hsl(var(--hue, 250) 60% 75%);
-        --theme-accent: hsl(calc(var(--hue, 250) + 90) 80% 65%); /* 强调色，色相偏移 90度 */
-
-        /* 动画配置 */
-        --stagger-delay: 50ms; /* 每个项目延迟 50ms */
-    }
-    
-    /* -------------------- 动画定义 -------------------- */
-
-    @keyframes fadeInSlideUp {
-        0% {
-            opacity: 0;
-            transform: translateY(20px);
-        }
-        100% {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    }
-
-    /* -------------------- 主题美化 -------------------- */
-    
-    /* 文章卡片入场动画 */
-    /* * 🎯 注意：你需要确保 PostPage.astro 内部的文章列表项（例如卡片）
-     * 具有 .post-card-item 类名才能触发此动画。
-     * 例如：<a href="..." class="post-card-item card-base ...">...</a>
-     */
-    .post-card-item {
-        opacity: 0;
-        animation: fadeInSlideUp 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
-        /* 错位动画的延迟计算 */
-        animation-delay: calc(var(--content-delay) + var(--stagger-delay) * var(--post-index));
-    }
-
-    /* * 🔮 玻璃拟态/辉光效果 (Glassmorphism/Glow)
-     * 应用在 card-base 类上以增强美感
-     */
-    .card-base {
-        position: relative;
-        overflow: hidden;
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        backdrop-filter: blur(10px);
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-        transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
-    }
-    
-    /* 卡片悬停效果：轻微抬升和主题色辉光 */
-    .card-base:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 0 30px var(--theme-primary);
-        border-color: var(--theme-primary);
-    }
-
-    /* 标题/强调文字使用主题色 */
-    .post-card-title {
-        color: var(--theme-primary);
-        transition: color 0.3s ease;
-    }
-    
-    /* 分页导航按钮美化 */
-    .pagination-button {
-        background-color: var(--theme-primary);
-        color: var(--color-background); /* 确保文字颜色与背景形成良好对比 */
-        border: none;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-    }
-    .pagination-button:hover {
-        background-color: var(--theme-accent);
-        transform: translateY(-2px);
-    }
-
-</style>
-
 <MainGridLayout>
-    <!-- 
-      🚀 文章列表容器： 
-      为了实现错位动画，请确保 PostPage.astro 内部的每个文章卡片：
-      1. 具有类名 .post-card-item
-      2. 具有 style="--post-index: <索引号>" (索引从0开始) 
-      例如：<a href="..." class="post-card-item" style="--post-index: 2;">...</a>
-    -->
     <PostPage page={page}></PostPage>
-    
-    <!-- 分页组件应用主题按钮样式 -->
-    <Pagination class="mx-auto onload-animation pagination-button" page={page} style={`animation-delay: calc(var(--content-delay) + ${(len)*50}ms)`}></Pagination>
+    <Pagination class="mx-auto onload-animation" page={page} style={`animation-delay: calc(var(--content-delay) + ${(len)*50}ms)`}></Pagination>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
