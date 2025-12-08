@@ -1,6 +1,6 @@
 ---
 title: 日本語 JLPT N2 メモ（１１）
-published: 2025-11-8 00:00:50
+published: 2025-11-8 00:00:51
 description: "新完全掌握听力"
 image: "./cover.jpg"
 tags: ["日本語能力試験 / JLPT","語学 / Language Learning", "日本語 / Japanese","中国語 / Chinese"]
