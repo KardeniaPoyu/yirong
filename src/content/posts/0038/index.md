@@ -1,11 +1,11 @@
 ---
 title: computer architecture (21) CPU
-published: 2025-12-14 00:00:14
+published: 2025-10-15 00:00:14
 description: "王道计组 第五章"
 image: "./cover.jpg"
 tags: ["院試 / Grad Prep","基礎 / Fundamentals", "日本語 / Japanese","中国語 / Chinese"]
 category: ノート / Notes
-draft: false 
+draft: true
 lang: cn
 ---
 
@@ -13,12 +13,12 @@ lang: cn
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100514696&p=61"  crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 - ## 本章总览
+    - CPU的功能和结构
+    - 指令执行过程
+    - 数据通路的功能和基础结构
+    - 控制器的功能和工作原理
+    - 指令流水线
 
-  - CPU的功能和结构
-  - 指令执行过程
-  - 数据通路的功能和基础结构
-  - 控制器的功能和工作原理
-  - 指令流水线
 
 回忆过去，我们知道CPU由**运算器**和**控制器**两大部件组成。
 
@@ -66,8 +66,8 @@ CPU工作的过程，就是执行一条条指令的过程。
 
 ![alt text](image-12.png)
 
-### CPU的基本结构
 
+### CPU的基本结构
 ![alt text](image-13.png)
 
 ![alt text](image-14.png)
@@ -97,7 +97,6 @@ CPU工作的过程，就是执行一条条指令的过程。
  ![alt text](image-22.png)
 
 ### 指令周期的数据流-中断周期
-
 ![alt text](image-21.png)
 
 ### 本节回顾
@@ -118,8 +117,6 @@ CPU工作的过程，就是执行一条条指令的过程。
 
 ![alt text](image-24.png)
 
-在这个图当中，我们采用的是CPU内部单总线的方式。所有的寄存器之间交换数据，都是通过CPU的内部总线来完成的，意味着同一时间只允许两个部件之间进行数据交换。它们对总线的使用是独占式的。
-
 ### CPU内部单总线方式
 
 #### 1.寄存器之间的数据传送
@@ -127,14 +124,13 @@ CPU工作的过程，就是执行一条条指令的过程。
 ![alt text](image-26.png)
 
 #### 2.主存与CPU之间的数据传送
-
  ![alt text](image-25.png)
 
 #### 3.执行算术或逻辑运算
 
 如果采用单总线的结构，在执行算术或逻辑运算时，必须先把其中的一个操作数放到暂存寄存器。
 
-![alt text](image-27.png)
+![alt text](image-27.png) 
 
 ### 本节回顾
 
