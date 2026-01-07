@@ -1,5 +1,5 @@
 ---
-title: computer architecture (21) CPU
+title: 一阶逻辑的推理定律的证明
 published: 2025-12-08 00:00:14
 description: "王道计组 第五章"
 image: "./cover.jpg"
@@ -10,18 +10,16 @@ lang: cn
 ---
 
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=995248168&bvid=BV1ps4y1d73V&cid=1100549626&p=67"  crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=280758103&bvid=BV1Vc411X7nr&cid=1329937256&p=60"  crolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+![alt text](93c3f659e5268262dedf862da3580281.png)
 
 - ## 微程序控制器的基本原理
 
   - CPU的功能和结构
   - 指令执行过程
 
-![alt text](image.png)
-
 ## 微程序控制器的设计思路
-
-![alt text](image-1.png)
 
 其中，运算器主要负责对数据进行处理，也就是算术运算和逻辑运算。
 
